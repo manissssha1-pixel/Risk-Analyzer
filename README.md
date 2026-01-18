@@ -48,5 +48,5 @@ The system uses embedded PDFs (corporate documents) as the knowledge base. Examp
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flowise-corpus-oak-barrel.git
-cd flowise-corpus-oak-barrel
+git clone https://github.com/manissssha1-pixel/flowise-corpus-analyzer.git
+cd flowise-corpus-risk-analyzer
